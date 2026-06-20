@@ -13,20 +13,25 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 
 ## 📸 Output Screenshots
 
-### Landing Page
-![Landing Page](Outputs_Screen_Shots/Main_Index_Page.png)
+<p align="center">
+<img src="Outputs_Screen_Shots/Main_Index_Page.png" width="900">
+</p>
 
-### Result 1
-![Result 1](Outputs_Screen_Shots/Result_1.png)
+<p align="center">
+<img src="Outputs_Screen_Shots/Result_1.png" width="900">
+</p>
 
-### Result 2
-![Result 2](Outputs_Screen_Shots/Result_2.png)
+<p align="center">
+<img src="Outputs_Screen_Shots/Result_2.png" width="900">
+</p>
 
-### Result 3
-![Result 3](Outputs_Screen_Shots/Result_3.png)
+<p align="center">
+<img src="Outputs_Screen_Shots/Result_3.png" width="900">
+</p>
 
-### Result 4
-![Result 4](Outputs_Screen_Shots/Result_4.png)
+<p align="center">
+<img src="Outputs_Screen_Shots/Result_4.png" width="900">
+</p>
 ---
 
 ## 🛠 *Technologies Used*
