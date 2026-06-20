@@ -26,7 +26,7 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 ![Result 3](Outputs_Screen_Shots/Predict_Web_Attack-Brute_Force.png)
 
 ### Predict_Web Attack-XSS
-![Result 4](Outputs_Screen_Shots/Predict_Web_Attack-XSS.png)
+![Result 4](Outputs_Screen_Shots/Predict_Web_Attack_XSS.png)
 ---
 
 ## 🛠 *Technologies Used*
