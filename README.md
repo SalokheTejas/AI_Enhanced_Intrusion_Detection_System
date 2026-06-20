@@ -13,25 +13,20 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 
 ## 📸 Output Screenshots
 
-<p align="center">
-<img src="Outputs_Screen_Shots/Main_Index_Page.png" width="900">
-</p>
+### Landing Page
+![Landing Page](Outputs_Screen_Shots/Main_Index_Page.png)
 
-<p align="center">
-<img src="Outputs_Screen_Shots/Result_1.png" width="900">
-</p>
+### Pass Parameters
+![Result 1](Outputs_Screen_Shots/Pass_Parameters.png)
 
-<p align="center">
-<img src="Outputs_Screen_Shots/Result_2.png" width="900">
-</p>
+### Predict Benign
+![Result 2](Outputs_Screen_Shots/Predict_Benign.png)
 
-<p align="center">
-<img src="Outputs_Screen_Shots/Result_3.png" width="900">
-</p>
+### Predict_Web Attack-Brute Force
+![Result 3](Outputs_Screen_Shots/Predict_Web Attack-Brute Force.png)
 
-<p align="center">
-<img src="Outputs_Screen_Shots/Result_4.png" width="900">
-</p>
+### Predict_Web Attack-XSS
+![Result 4](Outputs_Screen_Shots/Predict_Web Attack-XSS.png)
 ---
 
 ## 🛠 *Technologies Used*
