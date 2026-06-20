@@ -23,7 +23,7 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 ![Result 2](Outputs_Screen_Shots/Predict_Benign.png)
 
 ### Predict_Web Attack-Brute Force
-![Result 3](Outputs_Screen_Shots/Predict_Web Attack-Brute Force.png)
+![Result 3](Outputs_Screen_Shots/Predict_Web_Attack-Brute_Force.png)
 
 ### Predict_Web Attack-XSS
 ![Result 4](Outputs_Screen_Shots/Predict_Web Attack-XSS.png)
